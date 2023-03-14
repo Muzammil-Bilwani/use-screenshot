@@ -68,6 +68,14 @@ The type of the image. Default is `image/png`.
 
 The quality of the image. Default is `0.8`.
 
+---
+
+Check `/example` for a working example.
+
+### Contributing
+
+Please feel free to contribute to this project. If you find any bugs or have any suggestions, please open an issue.
+
 ### License
 
 MIT
