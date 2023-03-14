@@ -1,0 +1,30 @@
+{
+  "name": "use-screenshot",
+  "description": "Custom hook to take screenshots of a DOM element for ReactJS",
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-hooks",
+    "screenshot",
+    "react-hook",
+    "react-custom-hook",
+    "react-screenshot",
+    "react-sc"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Muzammil Bilwani",
+    "email": "muzammil.bilwani@hotmail.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
