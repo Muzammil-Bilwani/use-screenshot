@@ -1,5 +1,5 @@
 {
-  "name": "@muzammilbilwani/use-screenshot-react-hook",
+  "name": "use-screenshot-react-hook",
   "description": "Custom hook to take screenshots of a DOM element for ReactJS",
   "keywords": [
     "react",
